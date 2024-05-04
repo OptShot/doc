@@ -17,6 +17,7 @@ export default defineConfig({
         items: [
           { text: 'Quickstart', link: '/1_quick_start' },
           { text: 'Settings', link: '/2_setting_options' },
+          { text: 'Price', link: '/5_price' },
           { text: 'Freq Questions', link: '/3_freq_question' },
           { text: 'Contact', link: '/4_contact' },
           // { text: 'Markdown Examples', link: '/markdown-examples' },
