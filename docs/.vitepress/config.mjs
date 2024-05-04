@@ -19,6 +19,7 @@ export default defineConfig({
           { text: 'Settings', link: '/2_setting_options' },
           { text: 'Price', link: '/5_price' },
           { text: 'Freq Questions', link: '/3_freq_question' },
+          { text: 'Dev Plan', link: '/6_dev_plan' },
           { text: 'Contact', link: '/4_contact' },
           // { text: 'Markdown Examples', link: '/markdown-examples' },
           // { text: 'Runtime API Examples', link: '/api-examples' }
