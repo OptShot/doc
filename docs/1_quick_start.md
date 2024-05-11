@@ -9,6 +9,7 @@
 
 <img src="./assets/quickstart/software_image.png" width="250px" style="margin-left: 2em;">
 
-3. The mouse will automatically aim at detected objects when you hold the `Shift` key. You can adjust the aiming logic in the settings.
+3. The mouse will automatically aim at detected objects when you click `Mouse Left`. 
+You can adjust the aiming logic in the settings.
 
 <img src="./assets/quickstart/aiming_logic.png" width="250px" style="margin-left: 2em;">
