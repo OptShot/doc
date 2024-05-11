@@ -1,7 +1,3 @@
-# Settings
-
-<img src="./assets/setting_img.png" width="200px" style="margin-top: 1em;">
-
 ## Fast Capture
 
 Using the Microsoft DXGI API to capture the screen, achieving a detection speed of up to 240 FPS. If you encountered

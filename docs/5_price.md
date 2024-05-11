@@ -1,6 +1,3 @@
-# License
-
-## Pricing
 
 Optshot offers a free trial, and after the trial period, you can purchase a license (activation code) for activation:
 
