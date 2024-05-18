@@ -13,3 +13,5 @@
 You can adjust the aiming logic in the settings.
 
 <img src="./assets/quickstart/aiming_logic.png" width="250px" style="margin-left: 2em;">
+
+> Want to run OptShot alongside game streaming? Check out [this link](./subpages/1_dual_device.md).
